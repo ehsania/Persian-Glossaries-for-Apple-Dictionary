@@ -1,0 +1,14 @@
+
+@charset "UTF-8";
+@namespace d url(http://www.apple.com/DTDs/DictionaryService-1.0.rng);
+
+d|entry {
+}
+
+h1  {
+    font-size: 150%;
+}
+
+h3  {
+    font-size: 100%;
+}
